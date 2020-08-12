@@ -1,0 +1,2 @@
+# SimpleAppForChat
+Cilj ovog primera je kreiranje proste server-client aplikacije za chat Napraviti klasu Server i Client. Klasa Server treba da predstavlja server za chat koji se pokreće kao GUI i koji preko JTextArea prikazuje sve poruke pristigle od Client-a, kao i poruke koje su poslate sa servera. Client treba da se poveže na Server i da piše poruke tako da se na serveru ispisuju sve poruke koje su poslate, pri čemu se i na njegovoj strani ispisuju sve poruke koje je poslao, ali i koje su pristigle od servera
